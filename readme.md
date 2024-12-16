@@ -1,1 +1,0 @@
-# This project is created on the vite(react) + tailwind!
