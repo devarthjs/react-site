@@ -7,8 +7,9 @@
     <script type="module" crossorigin src="/react-site/assets/index-B6ypfJDM.js"></script>
     <link rel="stylesheet" crossorigin href="/react-site/assets/index-DH29txap.css">
     <script>
-        // Check if the pathname is not the root and doesn't contain file extensions
+        // Avoid infinite loops by checking if we're on the index page already
         if (location.pathname !== '/' && !location.pathname.includes('.')) {
+          // Only redirect if it's not the index page
           const redirectPath = location.pathname + location.search + location.hash;
           // Redirect to index.html with the correct path
           location.replace('/react-site' + redirectPath);
