@@ -1,0 +1,21 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vite + React</title>
+    <script type="module" crossorigin src="/react-site/assets/index-B6ypfJDM.js"></script>
+    <link rel="stylesheet" crossorigin href="/react-site/assets/index-DH29txap.css">
+    <script>
+        // Check if the pathname is not the root and doesn't contain file extensions
+        if (location.pathname !== '/' && !location.pathname.includes('.')) {
+          const redirectPath = location.pathname + location.search + location.hash;
+          // Redirect to index.html with the correct path
+          location.replace('/react-site' + redirectPath);
+        }
+      </script>
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
