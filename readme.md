@@ -4,7 +4,7 @@
 
 ## Live Preview
 
-View the live application here: [https://devarthjs.github.io/react-site/](https://your-live-link-here.com)
+View the live application here: [https://devarthjs.github.io/react-site/](https://devarthjs.github.io/react-site/)
 
 ---
 
