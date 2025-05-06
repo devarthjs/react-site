@@ -1,4 +1,4 @@
-# EduDegree – Online Education Degree Platform
+# ElevateEd – Online Education Degree Platform
 
 **EduDegree** is a modern web application that enables users to explore and enroll in accredited educational degree programs. The platform is designed with performance, accessibility, and scalability in mind, using a robust set of front-end technologies.
 
