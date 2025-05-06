@@ -1,10 +1,10 @@
-# EduDegree – Online Education Degree Platform
+# ElevateEd – Online Education Degree Platform
 
-**EduDegree** is a modern web application that enables users to explore and enroll in accredited educational degree programs. The platform is designed with performance, accessibility, and scalability in mind, using a robust set of front-end technologies.
+**ElevateEd** is a modern web application that enables users to explore and enroll in accredited educational degree programs. The platform is designed with performance, accessibility, and scalability in mind, using a robust set of front-end technologies.
 
 ## Live Preview
 
-View the live application here: [https://your-live-link-here.com](https://your-live-link-here.com)
+View the live application here: [https://devarthjs.github.io/react-site/](https://your-live-link-here.com)
 
 ---
 
@@ -43,7 +43,7 @@ This project demonstrates best practices in modern front-end development using R
 To run the project locally:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/devarthjs/react-site.git
+cd react-site
 npm install
 npm run dev
